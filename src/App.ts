@@ -71,7 +71,7 @@ export class App
           x: 960,
           y: 720,
           text: {
-            text: "Let's start Building!",
+            text: 'Hello World',
             fontFace: 'Regular',
             fontSize: 64,
             textColor: 0xbbffffff,
